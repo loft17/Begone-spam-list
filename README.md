@@ -10,4 +10,5 @@ Esta lista esta diseñada para utilizarse con la aplicacion Begone en IOS que pe
 - 2024.08.29 -   40.302📵 números bloqueados // 3 números permitidos
   
 ### Notas
-Varios rangos del 621.XXX.XXX que pertenecen a "Aire Network" y que revenden sus lineas para el spam telefonico.
+- Varios rangos del 621.XXX.XXX que pertenecen a "Aire Network" y que revenden sus lineas para el spam telefonico.
+- Los telefonos bloqueados se ha revisado en las webs "https://www.listaspam.com/" y "https://www.cleverdialer.es/" para revisar su reputación.
