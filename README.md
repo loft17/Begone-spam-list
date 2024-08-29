@@ -3,12 +3,11 @@
   <p>Listado con números no deseados vinculados al spam comercial/estafas/phising...</p>
 </div>
 
+# Información
+Esta lista esta diseñada para utilizarse con la aplicacion Begone en IOS que permite bloquear automaticamente números de telefono no desados de España.omerciales para Francia continental.
 
-# Versiones
+# Total telefonos bloqueados
 - 2024.08.29 -   40.302📵 números bloqueados // 3 números permitidos
-- 2024.08.22 -   14.155📵 números bloqueados
-- 2024.08.22 -   12.137📵 números bloqueados
-- 2024.08.09 -    1.091📵 números bloqueados
   
 # Notas
 Varios rangos del 621.XXX.XXX que pertenecen a "Aire Network" y que revenden sus lineas para el spam telefonico.
