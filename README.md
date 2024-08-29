@@ -9,5 +9,5 @@ Esta lista esta diseñada para utilizarse con la aplicacion Begone en IOS que pe
 # Total telefonos bloqueados
 - 2024.08.29 -   40.302📵 números bloqueados // 3 números permitidos
   
-# Notas
+### Notas
 Varios rangos del 621.XXX.XXX que pertenecen a "Aire Network" y que revenden sus lineas para el spam telefonico.
