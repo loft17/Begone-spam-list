@@ -1,5 +1,5 @@
 <div align='center'>
-  <h1>Begone Block List French</h1>
+  <h1>Begone Block List Spain</h1>
   <p>Listado con números no deseados vinculados al spam comercial/estafas/phising...</p>
 </div>
 
