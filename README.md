@@ -7,7 +7,7 @@
 Esta lista esta diseñada para utilizarse con la aplicacion Begone en IOS que permite bloquear automaticamente números de telefono no desados de España.omerciales para Francia continental.
 
 # Total telefonos bloqueados
-- 2024.09.09 -   49.344📵 números bloqueados // 3 números permitidos
+- 2024.09.03 -   49.344📵 números bloqueados // 3 números permitidos
 - 2024.08.29 -   40.302📵 números bloqueados // 3 números permitidos
   
 ### Notas
