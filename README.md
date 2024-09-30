@@ -12,9 +12,7 @@ Esta lista esta diseñada para utilizarse con la aplicacion Begone en IOS que pe
 
 # Total telefonos bloqueados
 - 2024.09.25 -   69.563📵 números bloqueados // 4 números permitidos
-- 2024.09.04 -   52.391📵 números bloqueados // 4 números permitidos
-- 2024.09.03 -   49.344📵 números bloqueados // 4 números permitidos
-- 2024.08.29 -   40.302📵 números bloqueados // 3 números permitidos
+
 
 # Fuentes
 - [listaspam.com](https://www.listaspam.com/)
