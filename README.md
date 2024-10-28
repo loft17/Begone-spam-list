@@ -11,7 +11,7 @@ Esta lista esta diseñada para utilizarse con la aplicacion Begone en IOS que pe
 
 
 # Total telefonos bloqueados
-- 2024.10.11 -   93.961 📵 números bloqueados
+- 2024.10.11 -   107.247 📵 números bloqueados
 
 
 # Fuentes
