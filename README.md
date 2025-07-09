@@ -11,7 +11,7 @@ Esta lista esta diseñada para utilizarse con la aplicacion Begone en IOS que pe
 
 
 # Total telefonos bloqueados
-- 2025.03.03 -   109.944 📵 números bloqueados.
+- 2025.03.03 -   110.168 📵 números bloqueados.
 
 
 # Fuentes
