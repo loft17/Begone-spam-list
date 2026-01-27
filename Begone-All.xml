@@ -37965,7 +37965,6 @@
 		<string>2</string>
 		<key>number</key>
 		<string>+34613813874</string>
-		<key>category</key>
 		<key>title</key>
 		<string>Spam</string>
 	</dict>
@@ -39192,6 +39191,7 @@
 	<dict>
 		<key>addNational</key>
 		<string>true</string>
+		<key>category</key>
 		<string>2</string>
 		<key>number</key>
 		<string>+34621430910</string>
